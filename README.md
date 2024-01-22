@@ -6,4 +6,4 @@
     - Predict Capital cities from countries (What's their capital?) using vector spaces and cosine similarity.
     - #Kaggle  House price prediction using Advance Regression Model (NN)
     - #Kaggle Binary Classification with a Bank Churn Dataset using (NN)
-  
+    - #Kaggle Natural Language Processing with Disaster Tweets using Biderectional and LSTM (NN)
