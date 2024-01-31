@@ -7,3 +7,4 @@
     - #Kaggle  House price prediction using Advance Regression Model (NN)
     - #Kaggle Binary Classification with a Bank Churn Dataset using (NN)
     - #Kaggle Natural Language Processing with Disaster Tweets using Biderectional and LSTM (NN)
+    - #Kaggle Digit Recognizer (CNN)
